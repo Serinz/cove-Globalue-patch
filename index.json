@@ -4,7 +4,7 @@
   "latestApp": 1,
   "appUrl": "",
   "notice": "",
-  "latestGame": "0.9.1.1003.1.87",
+  "latestGame": "0.9.1.1003.1.88",
   "gameCheck": [
     {
       "package": "*",
@@ -30,7 +30,7 @@
       "labelEn": "Korean",
       "kind": "patch",
       "manifest": "ko/manifest.json",
-      "version": "0.1.0"
+      "version": "0.1.1"
     }
   ]
 }
