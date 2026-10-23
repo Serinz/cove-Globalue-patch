@@ -5,7 +5,16 @@
   "appUrl": "",
   "notice": "",
   "latestGame": "0.9.1.1003.1.85",
-  "gameCheck": [],
+  "gameCheck": [
+    {
+      "package": "*",
+      "url": "https://cove-1317257923.cos.ap-shanghai.myqcloud.com/coveopenbeta1/res/channel1_new/version_Android.txt",
+      "jsonKeys": [
+        "version",
+        "resVer2"
+      ]
+    }
+  ],
   "languages": [
     {
       "code": "zh",
