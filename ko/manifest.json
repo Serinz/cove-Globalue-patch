@@ -2,9 +2,9 @@
   "schema": 1,
   "game": "com.moecove.clbfg",
   "language": "ko",
-  "version": "0.1.3",
-  "built": "2026-10-23T21:25:27+09:00",
-  "release": "ko-0.1.3",
+  "version": "0.1.4",
+  "built": "2026-10-23T23:54:53+09:00",
+  "release": "ko-0.1.4",
   "target": {
     "versions": [
       {
@@ -7195,34 +7195,34 @@
     {
       "path": "yoo/packageScript/BundleFiles/1f/1fe1ccee226621d170b2d1f230d37a46/__data",
       "type": "text",
-      "size": 4502312,
-      "patchedSha256": "29822a6f3d2438f3df191328d17b31c308daefacabaa24ffef47d1a9434cb12f",
+      "size": 4502556,
+      "patchedSha256": "dfad063c7c9d3eb99596db1a9a403e006806eb273d7b784a0a1698006d60aeee",
       "required": true,
       "asset": "packageScript__BundleFiles__1f__1fe1ccee226621d170b2d1f230d37a46____data.wsre",
       "group": "text_ui",
       "baseSource": "files",
       "baseSha256": "0fad6221100e1aab0fcb589f5e9a821f3be2af2b8d75ff4dc3c1d5a7c5075c44",
-      "release": "ko-0.1.3",
+      "release": "ko-0.1.4",
       "enc": {
         "keyId": 1,
-        "sha256": "79af1abc9de2c3c232869794caa54a35c73d90612783586bf86b30ec36451534",
-        "size": 4502410
+        "sha256": "744fed46cbf038cc4b383f71ce2e811732debfa066955af491af768a6753b871",
+        "size": 4502654
       }
     },
     {
       "path": "yoo/packageScript/BundleFiles/1f/1fe1ccee226621d170b2d1f230d37a46/__info",
       "type": "text",
       "size": 12,
-      "patchedSha256": "3c11d0497a8a594bce88989364d1f37cd8c77f2f5811132d81b49955931ca743",
+      "patchedSha256": "b241a02603358b00e22aabfe78bf93c84639dfafc3dc1d8570f7e52924df63f5",
       "required": true,
       "asset": "packageScript__BundleFiles__1f__1fe1ccee226621d170b2d1f230d37a46____info.wsre",
       "group": "text_ui",
       "baseSource": "files",
       "baseSha256": "089628d5e91ff953a2f72e1ca522ee09e12ea515cd913197a40208139d0ce939",
-      "release": "ko-0.1.3",
+      "release": "ko-0.1.4",
       "enc": {
         "keyId": 1,
-        "sha256": "2d8c17fe05e27b4a0f4459b43a5ccece7a2ccb27be9e0bb4df034549c83fd4a1",
+        "sha256": "e809bebba788821e95ea052ad07d4ac43eb2dfabe8c61bd4f2c112d0792357fb",
         "size": 46
       }
     },
@@ -7434,16 +7434,16 @@
       "path": "yoo/packageScript/ManifestFiles/packageScript_0.9.1.1003.1.88.bytes",
       "type": "text",
       "size": 162061,
-      "patchedSha256": "6c68f910052bb60d82725008f940252cf6610b2c01cb7e195d0eb7ef6a2c824c",
+      "patchedSha256": "60ba7a29862fd68d791537fcbec4df9d402cd8896705cc24fb4ba840c9ee4dd8",
       "required": true,
       "asset": "packageScript__ManifestFiles__packageScript_0.9.1.1003.1.88.bytes.wsre",
       "group": "manifest",
       "baseSource": "files",
       "baseSha256": "60495febc192902a5fd429cc7ac205a2b445cd258323af05edcf4bbd60e0922a",
-      "release": "ko-0.1.3",
+      "release": "ko-0.1.4",
       "enc": {
         "keyId": 1,
-        "sha256": "f8b436f7f6791e17fdebaff5d87c0ab9c2d8d02bce6be59d53ffe4314873a248",
+        "sha256": "0052d045e15d4d6560d115e2753d64f473402a1da1b38485af634eb2a3d58a01",
         "size": 162095
       }
     },
@@ -7451,16 +7451,16 @@
       "path": "yoo/packageScript/ManifestFiles/packageScript_0.9.1.1003.1.88.hash",
       "type": "text",
       "size": 8,
-      "patchedSha256": "cdbdbb56bed4e41cbbbb503e2ee59427627700a6c44817575110cf4e9e23d912",
+      "patchedSha256": "d5c0506217eb76c59dca5f78351955c8971202c848cae52873468aa90edd64b7",
       "required": true,
       "asset": "packageScript__ManifestFiles__packageScript_0.9.1.1003.1.88.hash.wsre",
       "group": "manifest",
       "baseSource": "files",
       "baseSha256": "b19bf0965e20b3e31d7a296da75ff486808396ecfddfd13df21fc2ccc1916027",
-      "release": "ko-0.1.3",
+      "release": "ko-0.1.4",
       "enc": {
         "keyId": 1,
-        "sha256": "48427db951798b0c6f9c5c8d285152912a892762581e5589c2313438206de8e3",
+        "sha256": "50319d080f68fda715cce0f7121bd98345abf23cc30f552b117d3e793cbd2610",
         "size": 42
       }
     }
@@ -9415,6 +9415,26 @@
       "sha256": "94defc8056e7ba77bba3e23c93d48927e95fb0e69d01a705661702c8f3554b37",
       "size": 8,
       "path": "yoo/packageRes/ManifestFiles/packageRes_0.9.1.1003.1.88.hash"
+    },
+    {
+      "sha256": "29822a6f3d2438f3df191328d17b31c308daefacabaa24ffef47d1a9434cb12f",
+      "size": 4502312,
+      "path": "yoo/packageScript/BundleFiles/1f/1fe1ccee226621d170b2d1f230d37a46/__data"
+    },
+    {
+      "sha256": "3c11d0497a8a594bce88989364d1f37cd8c77f2f5811132d81b49955931ca743",
+      "size": 12,
+      "path": "yoo/packageScript/BundleFiles/1f/1fe1ccee226621d170b2d1f230d37a46/__info"
+    },
+    {
+      "sha256": "6c68f910052bb60d82725008f940252cf6610b2c01cb7e195d0eb7ef6a2c824c",
+      "size": 162061,
+      "path": "yoo/packageScript/ManifestFiles/packageScript_0.9.1.1003.1.88.bytes"
+    },
+    {
+      "sha256": "cdbdbb56bed4e41cbbbb503e2ee59427627700a6c44817575110cf4e9e23d912",
+      "size": 8,
+      "path": "yoo/packageScript/ManifestFiles/packageScript_0.9.1.1003.1.88.hash"
     },
     {
       "sha256": "c15cd417072e086581c683385e9b48ed6b5b98445f5cbced0fdc6465cc3b9377",
