@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "minAppVersion": 1,
+  "latestApp": 1,
+  "appUrl": "",
+  "notice": "",
+  "latestGame": "0.9.1.1003.1.85",
+  "gameCheck": [],
+  "languages": [
+    {
+      "code": "zh",
+      "label": "原文(中文)",
+      "labelEn": "Original (Chinese)",
+      "kind": "original",
+      "manifest": "",
+      "version": ""
+    },
+    {
+      "code": "ko",
+      "label": "한국어",
+      "labelEn": "Korean",
+      "kind": "patch",
+      "manifest": "ko/manifest.json",
+      "version": ""
+    }
+  ]
+}
